@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+.expo-shared/
+.vscode/
+.idea/
+.DS_Store
+*.log
+*.tmp
+*.swp
+.env
+*.keystore
+*.jks
+
+
